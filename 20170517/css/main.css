@@ -1,0 +1,50 @@
+h1, h2, h3, h4, p{
+    z-index: 5;
+}
+
+ul li{
+  margin-left: 0;
+}
+
+.background{
+    /*background-attachment: fixed;*/
+}
+
+strong{
+    color: #e54a58;
+}
+
+.titulo-topo{
+    color: #009e9f;
+}
+
+.desc-topo>strong{
+    color: #f6772a;
+}
+
+p{
+  font-size: 25px;
+}
+
+.text-titulo{
+  font-size: 65px;
+}
+
+.app h2{
+  font-size: 60px;
+}
+
+.paragrafo-app{
+  font-size: 21px;
+}
+
+.sub-titulo-app{
+  font-size: 23px;
+}
+
+/*COLORS*/
+.azul{color: #39c3d0;}
+.verde{color: #0ea89e;}
+.verde-darker{color: #009e9f;}
+.laranja{color: #f6772a;}
+.vermelho{color: #e54a58;}
